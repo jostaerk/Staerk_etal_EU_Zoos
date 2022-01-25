@@ -5,11 +5,12 @@ Staerk et al. (2022): A decision framework to integrate in-situ and ex-situ mana
 
 The folders contain:
 
-ANALYSIS:
-
 CODE: the code to replicate results
+
 DATA: Data used, see note below.
+
 RESULTS: intermediate results and figures; will be available upon publication
+
 NOTE: All data are freely available and can be obtained from their original sources. ZIMS data can be obtained from Species360 via their data sharing site: https://conservation.species360.org/data-sharing/
 
 Contact:
