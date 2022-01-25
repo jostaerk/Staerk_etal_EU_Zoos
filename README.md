@@ -41,7 +41,7 @@ S. & Boitani, L. (2015). On how much biodiversity is covered in Europe by
 national protected areas and by the Natura 2000 network: Insights from
 terrestrial vertebrates. Conserv. Biol., 29.
 
-4) EAZA EEPs & ESBs
+4) EAZA EEPs & ESBs:
 EAZA Ex-situ Programme overview, 2019.
 https://www.eaza.net/conservation/programmes/, 2017 (accessed on 11 December
 2019).
@@ -67,14 +67,14 @@ Garnett, S.T., Şekercioǧlu, Ç.H. & Mace, G.M. (2013). Identifying the World�
 Most Climate Change Vulnerable Species: A Systematic Trait-Based Assessment of
 all Birds, Amphibians and Corals. PLoS One, 8.
 
-9) Vulnerbility to Climate change for reptiles
+9) Vulnerbility to Climate change for reptiles:
 Carr, J. (2011). Climate change vulnerability of European reptiles: Development and application of an IUCN assessment framework. Master thesis, University of East Anglia, available upon request.
 
-10) Evolutionary disctinctiveness (EDGE)
+10) Evolutionary disctinctiveness (EDGE):
 Gumbs, R., Gray, C.L., Wearn, O.R. & Owen, N.R. (2018). Tetrapods on the EDGE: Overcoming data limitations to identify phylogenetic conservation priorities. PLoS One, 13.
 
-11) Amphibian Ark ex-situ monitoring
+11) Amphibian Ark ex-situ monitoring:
 Amphibian Ark. (2019). Progress of Programs. Available at: https://progress.amphibianark.org/progress-of-programs. Last accessed: 20 May 2019.
 
-12) Ex-situ programs mentioned on the global IUCN Red List
+12) Ex-situ programs mentioned on the global IUCN Red List:
 IUCN. (2019). The IUCN Red List of Threatened Species. Version 2019-2. Available at: http://www.iucnredlist.org. Last accessed: 15 August, 2019.
