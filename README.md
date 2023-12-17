@@ -1,4 +1,4 @@
-## Staerk_etal_2022_EU_Zoos
+## Staerk_etal_EU_Zoos
 The R code needed to replicate results from the article:
 
 Staerk et al. (2022): A decision framework to integrate in-situ and ex-situ management for species in the European Union, submitted to Conservation Science and Practice
