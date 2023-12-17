@@ -7,15 +7,15 @@ The folders contain:
 
 CODE: the code to replicate results
 
-DATA: Data used, see list of publicly available data sources below.
+DATA: Intermediate data used, see list of publicly available data sources below.
 
-RESULTS: intermediate results and figures; will be available upon publication
+RESULTS: final data tables provided as Supplemental data in Staerk et al.
 
 NOTE: All data are freely available and can be obtained from their original sources. ZIMS data can be obtained from Species360 via their data sharing site: https://conservation.species360.org/data-sharing/
 
 ## Contact:
 
-Please contact Johanna Staerk, johannas[at]biology.sdu.dk, if you have any questions or suggestions.
+Please contact Johanna Staerk, johanna.staerk[at]gmail.com, if you have any questions or suggestions.
 
 
 ## Data sources:
@@ -24,9 +24,7 @@ Please contact Johanna Staerk, johannas[at]biology.sdu.dk, if you have any quest
 European IUCN RL assessment data, obtained from:
 N.A. Cox, H.J. Temple, 2009. European Red List of Reptiles. Luxembourg: Office
 for Official Publications of the European Communities; H.J. Temple, N.A. Cox, 2009. European Red List of Amphibians. Luxembourg: Office for Official
-Publications of the European Communities; BirdLife International. 2015.
-European Red List of Birds. Luxembourg: Office for Official Publications of
-the European Communities.; H.J. Temple, A. Terry, (Compilers). The Status and
+BirdLife International (2021). European Red List of Birds. Luxembourg: Publications Office of the European Union.; H.J. Temple, A. Terry, (Compilers). The Status and
 Distribution of European Mammals. Luxembourg: Office for Official Publications
 of the European Communities. (2007). Viii + 48pp, 210 x 297 mm.
 
